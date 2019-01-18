@@ -1,7 +1,5 @@
 # 骨架屏实现的简单(vue-skeleton-webpack-plugin)
 
-# 骨架屏实现的简单(vue-skeleton-webpack-plugin)
-
 #### SSR渲染骨架屏的过程
 
 ![image](https://images2017.cnblogs.com/blog/578730/201712/578730-20171213130913410-515409301.png)
